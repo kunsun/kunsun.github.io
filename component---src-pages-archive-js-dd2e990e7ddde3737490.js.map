@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/archive.js"],"names":["Archive"],"mappings":"2FAAA,gCAQeA,UANC,WACd,OACE","file":"component---src-pages-archive-js-dd2e990e7ddde3737490.js","sourcesContent":["import React from 'react';\r\n\r\nconst Archive = () => {\r\n  return (\r\n    <div>archive</div>\r\n  )\r\n}\r\n\r\nexport default Archive;"],"sourceRoot":""}
