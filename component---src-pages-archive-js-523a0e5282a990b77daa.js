@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{nRki:function(n,e,t){"use strict";t.r(e);var i=t("q1tI"),a=t.n(i);e.default=function(){return a.a.createElement("div",null,"archive")}}}]);
-//# sourceMappingURL=component---src-pages-archive-js-523a0e5282a990b77daa.js.map
