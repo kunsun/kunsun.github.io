@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-404-js-f13635c73e9bc8a139ab.js","mappings":"mIAQA,UANgBA,IAEZC,EAAAA,cAAA,WAAK,M","sources":["webpack://kunsun-blog/./src/pages/404.js"],"sourcesContent":["import React from 'react';\n\nconst Page404 = () => {\n  return (\n    <div>404</div>\n  )\n}\n\nexport default Page404;"],"names":["Page404","React"],"sourceRoot":""}

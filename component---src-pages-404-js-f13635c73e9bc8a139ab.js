@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkkunsun_blog=self.webpackChunkkunsun_blog||[]).push([[883],{429:function(u,e,n){n.r(e);var l=n(7294);e.default=()=>l.createElement("div",null,"404")}}]);
-//# sourceMappingURL=component---src-pages-404-js-f13635c73e9bc8a139ab.js.map
